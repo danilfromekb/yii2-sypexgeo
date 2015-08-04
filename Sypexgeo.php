@@ -15,6 +15,7 @@ namespace jisoft\sypexgeo;
 
 class Sypexgeo
 {
+    
     /**
      * @var \SxGeo instance.
      */
